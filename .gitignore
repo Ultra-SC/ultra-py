@@ -1,0 +1,10 @@
+# Build
+/build
+/dist
+
+# Virtual enviroment
+/venv
+
+# PyCharm project files
+/.idea
+

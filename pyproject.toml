@@ -1,0 +1,10 @@
+[build-system]
+requires = [
+    "setuptools>=40.8.0",
+    "idna==2.10",
+    "chardet==4.0.0",
+    "requests==2.25.1",
+    "urllib3==1.26.3",
+    "websockets==8.1"
+]
+build-backend = "setuptools.build_meta"
